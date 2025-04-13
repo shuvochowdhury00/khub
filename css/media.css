@@ -1,0 +1,389 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /* banner section start */
+  .banner_bg {
+    height: 270px;
+  }
+  .bg-title {
+    /* overflow: hidden; */
+    width: inherit;
+    top: 50%;
+  }
+  .bg-title-one h1 {
+    font-size: 22px;
+  }
+
+  .bg-title-two h2 {
+    font-size: 20px;
+  }
+
+  .bg-title-three h6 {
+    font-size: 11px;
+  }
+  /* banner section end */
+
+  /* banner bottom white color background jonathon kubb section start  */
+
+  .title_big h1 {
+    font-size: 15px;
+    margin-top: 33px;
+  }
+
+  .title_small h4 {
+    font-size: 12px;
+    margin: 15px 0px;
+  }
+  .last_title {
+    margin-bottom: 10px;
+  }
+  /* banner bottom white color background jonathon kubb section end  */
+
+  /* card section start */
+  .card_paragraph p {
+    font-size: 12px;
+  }
+  .cardd {
+    margin: 30px 30px 0px 0px;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+  /* card section start */
+
+  /* black background photo_container start */
+  .photo_container_title {
+    margin-bottom: 10px;
+  }
+  /* black background photo_container end */
+
+  /* from the jurnal card two section start */
+  .card_two {
+    margin-bottom: 10px;
+  }
+  .card_two_title_small h5 {
+    font-size: 13px;
+  }
+  .card_two_paragraph {
+    font-size: 12px;
+  }
+  .continue_reading {
+    font-size: 9px;
+  }
+  /* from the jurnal card two section end */
+
+  /* about me and my service section start */
+
+  .about {
+    text-align: center !important;
+  }
+  .about_paragraph .pera {
+    font-size: 12px;
+    text-align: justify;
+  }
+  .about_paragraph p {
+    font-size: 12px;
+    text-align: justify;
+  }
+  .service {
+    text-align: center !important;
+  }
+  .service_paragraph {
+    font-size: 11px;
+    text-align: justify;
+  }
+  /* about me and my service section end */
+
+  /* black background contact information start*/
+  .social-activities {
+    border: 2px solid #cacaca !important;
+    padding: 9px 0px;
+    margin-bottom: 10px;
+  }
+  /* black background contact information end*/
+  /* footer start */
+  .copyright {
+    font-size: 12px;
+  }
+  /* footer end */
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* banner section start */
+  .banner_bg {
+    height: 280px;
+  }
+  .bg-title-one h1 {
+    font-size: 24px;
+  }
+
+  .bg-title-two h2 {
+    font-size: 22px;
+  }
+
+  .bg-title-three h6 {
+    font-size: 12px;
+  }
+  /* banner section end */
+
+  /* banner bottom white color background jonathon kubb section start  */
+
+  .title_big h1 {
+    font-size: 20px;
+    margin-top: 40px;
+  }
+  .title_small h4 {
+    font-size: 12px;
+    margin-bottom: 30px;
+  }
+  /* banner bottom white color background jonathon kubb section end  */
+
+  /* card section start */
+  .cardd {
+    padding: 5px;
+  }
+  .card_paragraph p {
+    font-size: 10px;
+    line-height: 22px;
+  }
+  /* card section end */
+
+  /* from the jurnal card two section start */
+
+  .card_two {
+    padding: 6px;
+  }
+  .card_two_title_small h5 {
+    font-size: 11px;
+  }
+  .card_two_paragraph {
+    font-size: 12px;
+  }
+  .continue_reading {
+    font-size: 9px;
+  }
+  /* from the jurnal card two section start */
+
+  /* about me and my service section end */
+  .my_photo img {
+    height: 180px;
+  }
+  .about_paragraph .pera {
+    font-size: 9px;
+    line-height: 13px;
+    text-align: justify;
+    margin-bottom: 0px;
+  }
+  .about_paragraph p {
+    font-size: 9px;
+    line-height: 12px;
+    text-align: justify;
+  }
+  .icons i {
+    margin-left: 12px;
+  }
+  .service_paragraph {
+    font-size: 9px;
+    text-align: justify;
+    line-height: 14px;
+  }
+  /* about me and my service section end */
+
+  /* black background contact information start*/
+  .social-activities {
+    border: 2px solid #cacaca !important;
+    padding: 9px 0px;
+    margin-bottom: 10px;
+  }
+  .social-peragraph {
+    font-size: 12px;
+    padding: 0px 5px;
+  }
+  /* black background contact information end*/
+}
+/*mediam devices (landscape phones, 576px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* banner section start */
+  .banner_bg {
+    height: 350px;
+  }
+  .bg-title-one h1 {
+    font-size: 30px;
+  }
+
+  .bg-title-two h2 {
+    font-size: 25px;
+  }
+
+  .bg-title-three h6 {
+    font-size: 13px;
+  }
+  /* banner section end */
+
+  /* banner bottom white color background jonathon kubb section start  */
+
+  .title_big h1 {
+    font-size: 28px;
+    margin-top: 40px;
+  }
+  .title_small h4 {
+    font-size: 15px;
+    margin-bottom: 30px;
+  }
+  /* banner bottom white color background jonathon kubb section end  */
+  /* card section start */
+  .cardd {
+    padding: 10px;
+  }
+  .card_paragraph p {
+    font-size: 11px;
+  }
+  /* card section end */
+  /* from the jurnal card two section start */
+  .continue_reading {
+    font-size: 9px;
+  }
+
+  .card_two {
+    padding: 6px;
+  }
+  .card_two_title_small h5 {
+    font-size: 9px;
+  }
+  .card_two_paragraph {
+    font-size: 12px;
+  }
+  .continue_reading {
+    font-size: 9px;
+  }
+  /* from the jurnal card two section start */
+
+  /* about me and my service section end */
+  .my_photo img {
+    height: 230px;
+  }
+  .about_paragraph .pera {
+    font-size: 12px;
+    line-height: 17px;
+    /* text-align: justify; */
+    margin-bottom: 0px;
+    word-spacing: 3px;
+    margin-bottom: 5px;
+  }
+  .about_paragraph p {
+    font-size: 11px;
+    line-height: 16px;
+    text-align: justify;
+  }
+  .icons i {
+    margin-left: 12px;
+  }
+  .service_paragraph {
+    font-size: 12px;
+    text-align: justify;
+    line-height: 17px;
+  }
+  /* about me and my service section end */
+  /* black background contact information start*/
+  .social-peragraph {
+    font-size: 11px;
+  }
+  /* black background contact information end*/
+  /* footer start */
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* banner section start */
+  .banner_bg {
+    height: 350px;
+  }
+  /* banner section end */
+
+  /* banner bottom white color background jonathon kubb section start  */
+  .title_small h4 {
+    margin-bottom: 30px;
+  }
+  /* banner bottom white color background jonathon kubb section end  */
+  /* card section start */
+  .cardd {
+    padding: 5px;
+  }
+  .card_paragraph p {
+    font-size: 12px;
+  }
+  /* card section end */
+
+  /* from the jurnal card two section start */
+  .continue_reading {
+    font-size: 9px;
+  }
+  .card_two_title_small h5 {
+    font-size: 13px;
+  }
+  /* from the jurnal card two section start */
+
+  /* about me and my service section start */
+
+  .about_paragraph .pera {
+    font-size: 15px;
+    line-height: 21px;
+    word-spacing: -1px;
+  }
+  .about_paragraph p {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .service_paragraph {
+    font-size: 13px;
+    line-height: 21px;
+  }
+  /* about me and my service section end */
+  /* black background contact information start*/
+  .social-peragraph {
+    font-size: 13px;
+  }
+  /* black background contact information end*/
+}
+
+/*Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* banner bottom white color background jonathon kubb section start  */
+  .title_small h4 {
+    margin-bottom: 30px;
+  }
+  /* banner bottom white color background jonathon kubb section end  */
+
+  /* about me and my service section start */
+  .about_paragraph .pera {
+    line-height: 25px;
+    font-size: 16px;
+  }
+  .about_paragraph p {
+    line-height: 22px;
+    font-size: 15px;
+  }
+  /* about me and my service section end */
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+  /* from the jurnal card two section start */
+  .continue_reading {
+    font-size: 12px;
+  }
+  .love_react {
+    font-size: 14px;
+  }
+  /* from the jurnal card two section start */
+  /* about me and my service section start */
+  .about_paragraph .pera {
+    font-size: 17px;
+  }
+  .about_paragraph p {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .service_paragraph {
+    font-size: 14px;
+  }
+  /* about me and my service section end */
+}
